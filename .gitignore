@@ -1,0 +1,2 @@
+# ignore Pycache to prevent problems in the future.
+__pycache__/
