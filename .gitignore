@@ -1,2 +1,3 @@
-# ignore Pycache to prevent problems in the future.
+# ignore these files to prevent problems in the future.
 __pycache__/
+file_table.json
